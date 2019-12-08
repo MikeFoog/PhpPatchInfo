@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>
+			
+			</data>
+			<key>IsRemovable</key>
+			<false/>
+			<key>Label</key>
+			<string>51私房乾</string>
+			<key>PayloadDescription</key>
+			<string>配置 Web Clip 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.9D20A0EE-A0FD-4CEA-A1ED-0B90215133C9</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>9D20A0EE-A0FD-4CEA-A1ED-0B90215133C9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>h5.51sfqian.com</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>51私房乾</string>
+	<key>PayloadIdentifier</key>
+	<string>MacBook-Pro-SSR.259D6-D967-4015-A92E-0D921CF9045C</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E302BC88-1EA1-4257-B328-2766E3A06C38</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
